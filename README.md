@@ -3,9 +3,8 @@ Linki do projektów online
 
 Projekty Frontend Mentors:
 
-https://f-m-time-dashbord-by-ilsaya.netlify.app
-
-https://fm-expenses-chart-component-by-ilsaya.netlify.app
+https://f-m-time-dashbord-by-ilsaya.netlify.app 
+https://fm-expenses-chart-component-by-ilsaya.netlify.app 
 https://sliding-component-by-ilsaya.netlify.app
 https://intro-component-with-sign-up-form-by-ilsaya.netlify.app
 https://frontend-mentor-interactive-rating-component-by-ilsaya.netlify.app
